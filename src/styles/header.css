@@ -97,3 +97,65 @@
 .header__btn a:hover {
   color: #6693da;
 }
+
+/* ============= main navigation ============== */
+.main__navbar {
+  padding: 15px 0;
+  background: #000d6b;
+}
+
+.mobile__menu i {
+  font-size: 1.2rem;
+  color: #fff;
+  cursor: pointer;
+}
+
+.mobile__menu {
+  display: none;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  gap: 2.7rem;
+}
+
+.nav__item {
+  color: #fff;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.nav__item:hover {
+  color: #f9a826;
+}
+
+.search__box {
+  border: 0.5px solid #6693da;
+  padding: 7px 12px;
+  display: flex;
+  align-items: center;
+  border-radius: 50px;
+  background-color: #020a4de9;
+}
+
+.search__box input {
+  background: transparent;
+  border: none;
+  outline: none;
+  color: #fff;
+  cursor: pointer;
+}
+
+.search__box input::placeholder {
+  font-size: 0.8rem;
+}
+.search__box span i {
+  color: #ffffff56;
+  cursor: pointer;
+}
+
+.nav__active {
+  color: #f9a826;
+  text-decoration: none;
+}
