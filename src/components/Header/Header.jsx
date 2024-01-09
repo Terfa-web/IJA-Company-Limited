@@ -13,7 +13,7 @@ const Header = () => {
               <div className="header__top__left">
                 <span>Need Help?</span>
                 <span className="header__top__help">
-                  <i class="ri-phone-fill"></i> +1-202-555-0149
+                  <i class="ri-phone-fill"></i> +234-998-987-34
                 </span>
               </div>
             </Col>
@@ -31,6 +31,7 @@ const Header = () => {
           </Row>
         </Container>
       </div>
+
       {/* ======== header middle ====== */}
       <div className="header__middle">
         <Container>
@@ -38,7 +39,7 @@ const Header = () => {
             <Col lg="4" md="3" sm="4">
               <div className="logo">
                 <h1>
-                  <Link to="/home">
+                  <Link to="/home" className=" d-flex align-items-center gap-3">
                     <i class="ri-car-line"></i>
                     <span>
                       Rent car <br /> Service
@@ -49,7 +50,7 @@ const Header = () => {
             </Col>
 
             <Col lg="3" md="3" sm="4">
-              <div className="header__location">
+              <div className="header__location d-flex align-items-center gap-2 ">
                 <span>
                   <i class="ri-earth-line"></i>
                 </span>
@@ -61,7 +62,7 @@ const Header = () => {
             </Col>
 
             <Col lg="3" md="3" sm="4">
-              <div className="header__location">
+              <div className="header__location d-flex align-items-center gap-2">
                 <span>
                   <i class="ri-time-line"></i>
                 </span>
@@ -72,16 +73,18 @@ const Header = () => {
               </div>
             </Col>
 
-            <Col lg="2" md="3" sm="0">
-              <button className="heder__btn btn">
+            <Col lg="2" md="3" sm="0" className="text-end">
+              <button className="header__btn btn ">
                 <Link to="/contact">
-                  <i class="ri-pnone-line"></i> Request a call
+                  <i class="ri-phone-line"></i> Request a call
                 </Link>
               </button>
             </Col>
           </Row>
         </Container>
       </div>
+
+      {/* ======== main navigation ====== */}
     </header>
   );
 };
