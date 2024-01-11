@@ -65,6 +65,9 @@ const Home = () => {
           </Row>
         </Container>
       </section>
+
+      {/* ============= become a driver section =============== */}
+      <BecomeDriverSection />
     </Helmet>
   );
 };
