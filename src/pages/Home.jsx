@@ -9,6 +9,7 @@ import carData from "../assets/data/carData";
 import CarItem from "../components/UI/CarItem";
 import BecomeDriverSection from "../components/UI/BecomeDriverSection";
 import Testimonial from "../components/UI/Testimonial";
+import BlogList from "../components/UI/BlogList";
 
 const Home = () => {
   return (
