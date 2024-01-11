@@ -7,6 +7,7 @@ import AboutSection from "../components/UI/AboutSection";
 import ServiceList from "../components/UI/ServiceList";
 import carData from "../assets/data/carData";
 import CarItem from "../components/UI/CarItem";
+import BecomeDriverSection from "../components/UI/BecomeDriverSection";
 
 const Home = () => {
   return (
