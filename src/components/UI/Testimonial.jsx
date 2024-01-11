@@ -10,9 +10,9 @@ const Testimonial = () => {
     dots: true,
     infinite: true,
     autoplay: true,
-    speed: 3000,
+    speed: 1000,
     swipeToSlide: true,
-    autoplaySpeed: 3000,
+    autoplaySpeed: 2000,
     slidesToShow: 3,
     slidesToScroll: 1,
     responsive: [
@@ -48,7 +48,7 @@ const Testimonial = () => {
           <img src={ava01} alt="" className="w-25 h-25 rounded-2" />
 
           <div>
-            <h6 className="mb-0 mt-3">John Doe</h6>
+            <h6 className="mb-0 mt-3">Terwase Suu</h6>
             <p className="section__description">Customer</p>
           </div>
         </div>
@@ -64,7 +64,7 @@ const Testimonial = () => {
           <img src={ava02} alt="" className="w-25 h-25 rounded-2" />
 
           <div>
-            <h6 className="mb-0 mt-3">John Doe</h6>
+            <h6 className="mb-0 mt-3">Mary Asuquo</h6>
             <p className="section__description">Customer</p>
           </div>
         </div>
@@ -80,7 +80,7 @@ const Testimonial = () => {
           <img src={ava03} alt="" className="w-25 h-25 rounded-2" />
 
           <div>
-            <h6 className="mb-0 mt-3">John Doe</h6>
+            <h6 className="mb-0 mt-3">Bassey Anthony</h6>
             <p className="section__description">Customer</p>
           </div>
         </div>
@@ -97,7 +97,7 @@ const Testimonial = () => {
           <img src={ava04} alt="" className="w-25 h-25 rounded-2" />
 
           <div>
-            <h6 className="mb-0 mt-3">John Doe</h6>
+            <h6 className="mb-0 mt-3">Gift Effiong</h6>
             <p className="section__description">Customer</p>
           </div>
         </div>

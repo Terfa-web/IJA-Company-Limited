@@ -69,6 +69,20 @@ const Home = () => {
 
       {/* ============= become a driver section =============== */}
       <BecomeDriverSection />
+
+      {/* ======== Testimonial section =========== */}
+      <section>
+        <Container>
+          <Row>
+            <Col lg="12" className="mb-4 text-center">
+              <h6 className="section__subtitle">What Our clients say</h6>
+              <h2 className="section__title">Testimonials</h2>
+            </Col>
+
+            <Testimonial />
+          </Row>
+        </Container>
+      </section>
     </Helmet>
   );
 };
