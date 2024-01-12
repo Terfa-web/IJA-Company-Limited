@@ -3,6 +3,9 @@
 }
 
 .blog__time {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   border-top: 1px solid #7c8a977e;
 }
 
@@ -36,4 +39,31 @@
 
 .blog__title:hover {
   color: #665858;
+}
+
+@media screen and (max-width: 768px) {
+  .blog__time {
+    padding-top: 5px !important;
+  }
+
+  .blog__title {
+    font-size: 1.1rem;
+  }
+
+  .blog__info p {
+    font-size: 0.7rem;
+    line-height: 1.5rem;
+    margin-top: 10px;
+  }
+  .read__more {
+    font-size: 0.7rem;
+  }
+
+  .blog__date {
+    font-size: 0.7rem;
+  }
+
+  .blog__time span {
+    font-size: 0.7rem;
+  }
 }

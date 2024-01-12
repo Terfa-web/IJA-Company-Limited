@@ -1,8 +1,9 @@
 import React from "react";
 import { Col } from "reactstrap";
-import "../../styles/blog-item.css";
+
 import { Link } from "react-router-dom";
 import blogData from "../../assets/data/blogData";
+import "../../styles/blog-list.css";
 
 const BlogList = () => {
   return (
@@ -35,15 +36,15 @@ const BlogItem = ({ item }) => {
             Read More
           </Link>
 
-          <div className="blog__time pt-3 mt-3 d-flex align-items-center justify-content-between">
+          <div className="blog__time pt-3 mt-3">
             <span className="blog__author">
               <i class="ri-user-line"></i>
               {author}
             </span>
 
             <div className="d-flex align-items-center gap-3">
-              <span className="d-flex align-items-center gap-1 section__description">
-                <i class="ri-calendar-line"></i>
+              <span className="d-flex align-items-center gap-1 section__description  blog__date">
+                <i class="ri-calendar-line "></i>
                 {date}
               </span>
 

@@ -69,3 +69,24 @@
 .footer__bottom {
   border-top: 1px solid #7c8a972f;
 }
+
+@media screen and (max-width: 768px) {
+  .footer__log-content {
+    font-size: 0.8rem;
+  }
+
+  .quick__links,
+  .office__info {
+    font-size: 0.9rem;
+    line-height: 1.5;
+  }
+
+  .footer__link-title {
+    font-size: 1rem;
+    margin-top: 15px;
+  }
+
+  .footer__bottom p {
+    font-size: 0.7rem;
+  }
+}
