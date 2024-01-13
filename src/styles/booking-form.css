@@ -29,3 +29,15 @@
 .booking__form select:focus {
   outline: none;
 }
+
+@media screen and (max-width: 768px) {
+  .booking__form {
+    width: 100%;
+  }
+
+  .booking__form input,
+  .textarea,
+  .booking__form select {
+    font-size: 0.8rem;
+  }
+}

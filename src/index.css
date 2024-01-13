@@ -16,7 +16,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #000d6b;
+  color: #000d6b !important;
   font-weight: 600;
   margin-bottom: none;
 }
@@ -70,8 +70,8 @@ section {
 /* buttons */
 .btn {
   padding: 7px 15px;
-  background-color: #000d6b;
-  color: #fff;
+  background: #fff;
+  color: #000d6b;
   border: none;
   outline: none;
   border-radius: 5px;
@@ -79,8 +79,8 @@ section {
 }
 
 .btn:hover {
-  background: #fff !important;
-  color: #000d6b !important;
+  background: #000d6b !important;
+  color: #fff !important;
 }
 
 @media only screen and (max-width: 768px) {
