@@ -52,7 +52,7 @@ const OurMembers = () => {
   return (
     <>
       {ourMembers.map((member, index) => (
-        <Col lg="3" md="3" sm="4" key={index} className="mb-4">
+        <Col lg="3" md="3" sm="4" xs="6" key={index} className="mb-4">
           <div className="single__member">
             <div className="single__member-img">
               <img src={member.imgUrl} alt="" className="w-100" />
