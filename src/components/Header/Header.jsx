@@ -21,7 +21,7 @@ const navLinks = [
     display: "Blog",
   },
   {
-    path: "/contant",
+    path: "/contact",
     display: "Contact",
   },
 ];
