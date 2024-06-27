@@ -17,10 +17,6 @@ const navLinks = [
     display: "Cars",
   },
   {
-    path: "/blogs",
-    display: "Blog",
-  },
-  {
     path: "/contact",
     display: "Contact",
   },
@@ -29,6 +25,7 @@ const Header = () => {
   const menuRef = useRef(null);
 
   const toggleMenu = () => menuRef.current.classList.toggle("menu__active");
+
   return (
     <header className="header">
       {/* =======header-top======= */}
