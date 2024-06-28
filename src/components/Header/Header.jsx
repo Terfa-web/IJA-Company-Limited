@@ -34,10 +34,16 @@ const Header = () => {
         <Container>
           <Row>
             <Col lg="6" md="6" sm="6">
-              <div className="header__top__left">
+              <div className="header__top__left d-flex flex-column flex-sm-row ">
                 <span>Hot line.</span>
                 <span className="header__top__help">
                   <i class="ri-phone-fill"></i> +234-816-433-9452
+                </span>
+                <span className="header__top__help">
+                  <i class="ri-phone-fill"></i> +234-7080076841
+                </span>
+                <span className="header__top__help">
+                  <i class="ri-phone-fill"></i> +234-704035999
                 </span>
               </div>
             </Col>
