@@ -1,6 +1,7 @@
 import React, { useRef } from "react";
 import { Container, Row, Col } from "reactstrap";
 import { Link, NavLink } from "react-router-dom";
+import logo from "../../assets/all-images/IJAlogo.jpeg";
 import "../../styles/header.css";
 
 const navLinks = [
@@ -59,11 +60,14 @@ const Header = () => {
             <Col lg="4" md="3" sm="4">
               <div className="logo">
                 <h1>
-                  <Link to="/home" className=" d-flex align-items-center gap-3">
-                    <i class="ri-car-line"></i>
-                    <span>
-                      <br /> Service
-                    </span>
+                  <Link to="/home">
+                    <div className="logo__container">
+                      <img
+                        className="img-fluid max-width-lg-40 max-width-md-25"
+                        src={logo}
+                        alt="company logo"
+                      />
+                    </div>
                   </Link>
                 </h1>
               </div>
