@@ -80,7 +80,7 @@ const Header = () => {
                 </span>
                 <div className="header__location-content">
                   <h4>Nigeria</h4>
-                  <h6>Lagos City, Nigeria</h6>
+                  <h6>FCT</h6>
                 </div>
               </div>
             </Col>
@@ -91,8 +91,8 @@ const Header = () => {
                   <i class="ri-time-line"></i>
                 </span>
                 <div className="header__location-content">
-                  <h4>Sunday to Friday</h4>
-                  <h6>10am - 7pm</h6>
+                  <h4>Monday to Saturday</h4>
+                  <h6>7am - 8pm</h6>
                 </div>
               </div>
             </Col>
