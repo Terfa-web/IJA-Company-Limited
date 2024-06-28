@@ -203,3 +203,20 @@
     display: block;
   }
 }
+
+.logo__container {
+  max-width: 40px; /* Set a maximum width for the container */
+  margin: 0 auto; /* Center the container */
+}
+
+@media (max-width: 991.98px) {
+  .max-width-lg-40 {
+    max-width: 100%; /* Override max-width for large devices */
+  }
+}
+
+@media (max-width: 767.98px) {
+  .max-width-md-25 {
+    max-width: 100%; /* Override max-width for medium devices */
+  }
+}

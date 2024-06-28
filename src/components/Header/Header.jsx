@@ -1,7 +1,7 @@
 import React, { useRef } from "react";
 import { Container, Row, Col } from "reactstrap";
 import { Link, NavLink } from "react-router-dom";
-import logo from "../../assets/all-images/IJAlogo.jpeg";
+import logo from "../../assets/all-images/IJAlog.jpeg";
 import "../../styles/header.css";
 
 const navLinks = [
