@@ -33,22 +33,22 @@ const Header = () => {
       <div className="header-top">
         <Container>
           <Row>
-            <Col lg="6" md="6" sm="6">
+            <Col lg="6" md="12" sm="12">
               <div className="header__top__left d-flex flex-column flex-sm-row ">
                 <span>Hot line.</span>
                 <span className="header__top__help">
                   <i class="ri-phone-fill"></i> +234-816-433-9452
                 </span>
                 <span className="header__top__help">
-                  <i class="ri-phone-fill"></i> +234-7080076841
+                  <i class="ri-phone-fill"></i> +234-708-007-6841
                 </span>
                 <span className="header__top__help">
-                  <i class="ri-phone-fill"></i> +234-704035999
+                  <i class="ri-phone-fill"></i> +234-704-035-7999
                 </span>
               </div>
             </Col>
 
-            <Col lg="6" md="6" sm="6">
+            <Col lg="6" md="12" sm="12">
               <div className="header__top__right d-flex align-items-center justify-content-end gap-3">
                 <Link to="#" className="d-flex align-items-center gap-1">
                   <i class="ri-map-pin-2-line"></i> Located-In-Abuja
