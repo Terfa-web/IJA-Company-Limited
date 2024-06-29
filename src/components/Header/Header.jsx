@@ -35,7 +35,7 @@ const Header = () => {
           <Row>
             <Col lg="6" md="12" sm="12">
               <div className="header__top__left d-flex flex-column flex-sm-row ">
-                <span>Hot line.</span>
+                <span>Hot lines.</span>
                 <span className="header__top__help">
                   <i class="ri-phone-fill"></i> +234-816-433-9452
                 </span>
@@ -50,8 +50,14 @@ const Header = () => {
 
             <Col lg="6" md="12" sm="12">
               <div className="header__top__right d-flex align-items-center justify-content-end gap-3">
-                <Link to="#" className="d-flex align-items-center gap-1">
-                  <i class="ri-map-pin-2-line"></i> Located-In-Abuja
+                <Link to="/home">
+                  <div className="logo__container">
+                    <img
+                      className="img-fluid max-width-lg-60 max-width-md-40"
+                      src={logo}
+                      alt="company logo"
+                    />
+                  </div>
                 </Link>
               </div>
             </Col>
