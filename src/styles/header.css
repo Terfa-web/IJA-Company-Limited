@@ -1,6 +1,6 @@
 .header-top {
   padding: 10px 0px;
-  background-color: hsl(4.11deg 38.02% 60.19%);
+  background-color: #000d6b;
   color: #fff;
 }
 
@@ -22,7 +22,7 @@
 
 .header__top__help i {
   background: #fff;
-  color: rgba(249, 241, 22, 0.6);
+  color: #000d6b;
   padding: 2px 4px;
   border-radius: 50px;
   font-size: 0.7rem;
@@ -35,7 +35,7 @@
 }
 
 .header__top__right a:hover {
-  color: #f0f1ab;
+  color: #6693da;
 }
 
 /* ======= header middle styles ======== */
@@ -53,7 +53,7 @@
 
 .logo h1 a {
   text-decoration: none;
-  color: rgba(249, 241, 22, 0.6);
+  color: #000d6b;
   font-weight: 700;
 }
 
@@ -63,13 +63,13 @@
 
 .header__location span i {
   font-size: 2.2rem;
-  color: rgba(249, 241, 22, 0.6);
+  color: #000d6b;
 }
 
 .header__location-content h4 {
   font-size: 1.2rem;
   font-weight: 600;
-  color: rgba(249, 241, 22, 0.6);
+  color: #000d6b;
 }
 
 .header__location-content h6 {
@@ -77,7 +77,7 @@
 }
 
 .header__btn {
-  background: rgba(249, 241, 22, 0.6) !important;
+  background: #000d6b !important;
   padding: 10px 20px;
   border: none;
   outline: none;
@@ -95,13 +95,13 @@
   transition: 0.3s;
 }
 .header__btn a:hover {
-  color: #e6f07a;
+  color: #6693da;
 }
 
 /* ============= main navigation ============== */
 .main__navbar {
   padding: 15px 0;
-  background: rgba(249, 241, 22, 0.6);
+  background: #000d6b;
 }
 
 .mobile__menu i {
@@ -136,7 +136,7 @@
   display: flex;
   align-items: center;
   border-radius: 50px;
-  background-color: rgba(249, 241, 22, 0.6);
+  background-color: #020a4de9;
 }
 
 .search__box input {
@@ -156,7 +156,7 @@
 }
 
 .nav__active {
-  color: rgba(249, 241, 22, 0.6);
+  color: #f9a826;
   text-decoration: none;
 }
 
@@ -172,7 +172,7 @@
   }
 
   .navigation {
-    background: rgba(249, 241, 22, 0.6);
+    background: rgb(0, 13, 107, 0.6);
     width: 100%;
     height: 100%;
     position: fixed;
@@ -194,30 +194,12 @@
   }
 
   .menu a {
-    color: rgba(249, 241, 22, 0.6);
+    color: #000d6b;
     font-weight: 600;
     font-size: 0.9rem;
   }
 
   .menu__active {
     display: block;
-  }
-}
-
-.logo__container {
-  max-width: 80px; /* Set a maximum width for the container */
-  height: 60px;
-  margin: 0 auto; /* Center the container */
-}
-
-@media (max-width: 991.98px) {
-  .max-width-lg-40 {
-    max-width: 100%; /* Override max-width for large devices */
-  }
-}
-
-@media (max-width: 767.98px) {
-  .max-width-md-25 {
-    max-width: 100%; /* Override max-width for medium devices */
   }
 }
