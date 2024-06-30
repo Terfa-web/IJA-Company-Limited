@@ -53,7 +53,7 @@ const Header = () => {
                 <Link to="/home">
                   <div className="logo__container">
                     <img
-                      className="img-fluid max-width-lg-60 max-width-md-40"
+                      className="img-fluid max-width-lg-60 max-width-md-40 rounded"
                       src={logo}
                       alt="company logo"
                     />
