@@ -39,7 +39,6 @@ const CarDetails = () => {
                       <i class="ri-star-s-fill"></i>
                       <i class="ri-star-s-fill"></i>
                       <i class="ri-star-s-fill"></i>
-                      <i class="ri-star-s-fill"></i>
                     </span>
                     ({singleCarItem.rating} ratings)
                   </span>
