@@ -12,7 +12,7 @@ const BecomeDriverSection = () => {
             <img
               src={trainingImg}
               alt=""
-              className="w-100 img-fluid training-image"
+              className="w-100 img-fluid training-image rounded"
             />
           </Col>
 
