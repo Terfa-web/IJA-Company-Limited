@@ -1,7 +1,7 @@
 import React from "react";
 import "../../styles/become-driver.css";
 import { Container, Row, Col } from "reactstrap";
-import driverImg from "../../assets/all-images/toyota-offer-2.png";
+import trainingImg from "../../assets/all-images/training.png";
 
 const BecomeDriverSection = () => {
   return (
@@ -9,16 +9,16 @@ const BecomeDriverSection = () => {
       <Container>
         <Row>
           <Col lg="6" md="6" sm="12" className="become__driver-img">
-            <img src={driverImg} alt="" className="w-100" />
+            <img src={trainingImg} alt="" className="w-100" />
           </Col>
 
           <Col lg="6" md="6" sm="12">
             <h2 className="section__title become__driver-title">
-              Do you want to Earn With Us? Don't be Late.
+              Internationally trained professional. With latest Services.
             </h2>
-            <button className="btn become__driver-btn mt-4">
+            {/* <button className="btn become__driver-btn mt-4">
               Become a Driver
-            </button>
+            </button> */}
           </Col>
         </Row>
       </Container>

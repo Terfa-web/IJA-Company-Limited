@@ -9,7 +9,7 @@ const serviceData = [
   {
     id: 2,
     title: "Maintenance and Repairs",
-    icon: "ri-wrench-line",
+    icon: "ri-tools-line",
     desc: "Offer regular maintenance services to ensure optimal performance. Provide troubleshooting and repair services for any issues that may arise.",
   },
 
