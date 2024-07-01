@@ -1,7 +1,7 @@
 import React from "react";
 import "../../styles/become-driver.css";
 import { Container, Row, Col } from "reactstrap";
-import trainingImg from "../../assets/all-images/training.png";
+import trainingImg from "../../assets/all-images/training.jpg";
 
 const BecomeDriverSection = () => {
   return (
