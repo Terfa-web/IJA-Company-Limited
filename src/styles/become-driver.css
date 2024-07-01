@@ -51,3 +51,14 @@
     text-align: center;
   }
 }
+
+.training-image {
+  height: 250px; /* Default for small devices */
+}
+
+@media (min-width: 992px) {
+  /* For large devices and above */
+  .training-image {
+    height: 400px;
+  }
+}

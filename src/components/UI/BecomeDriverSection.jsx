@@ -9,7 +9,11 @@ const BecomeDriverSection = () => {
       <Container>
         <Row>
           <Col lg="6" md="6" sm="12" className="become__driver-img">
-            <img src={trainingImg} alt="" className="w-100" />
+            <img
+              src={trainingImg}
+              alt=""
+              className="w-100 img-fluid training-image"
+            />
           </Col>
 
           <Col lg="6" md="6" sm="12">
