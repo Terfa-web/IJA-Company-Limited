@@ -1,13 +1,13 @@
 import React from 'react';
-import { Routes, Route, Navigate } from 'react-router-dom';
+import { Navigate, Route, Routes } from 'react-router-dom';
 
-import Home from "../pages/Home";
 import About from "../pages/About";
-import CarListing from "../pages/CarListing";
 import CarDetails from "../pages/CarDetails";
+import CarListing from "../pages/CarListing";
+import Home from "../pages/Home";
 
-import NotFound from "../pages/NotFound";
 import Contact from '../pages/Contact';
+import NotFound from "../pages/NotFound";
 
 const Routers = () => {
   return (
