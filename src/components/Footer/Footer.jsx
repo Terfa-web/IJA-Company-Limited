@@ -13,12 +13,8 @@ const quickLinks = [
     display: "Privacy Policy",
   },
   {
-    path: "/cars",
-    display: "Car Listing",
-  },
-  {
-    path: "/blogs",
-    display: "Blog",
+    path: "/products",
+    display: "Our Products",
   },
   {
     path: "/contact",
@@ -68,12 +64,13 @@ const Footer = () => {
             <div className="mb-4">
               <h5 className="footer__link-title mb-4">Head Office</h5>
               <p className="office__info">
-                123 Imaginary Street, Tech District, Victoria Island, Lagos,
-                Nigeria.
+                U20 Beside Midland Plaza, Maraba, Abuja, Nigeria.
               </p>
-              <p className="office__info">Phone: +234-456-342-90</p>
-              <p className="office__info">Email: imagine@hotmail.co.ng</p>
-              <p className="office__info">Office Time: 10am - 7pm </p>
+              <p className="office__info">Phone: +234-816-433-9452</p>
+              <p className="office__info">
+                Email: ijasolarcompanyltd@gmail.com
+              </p>
+              <p className="office__info">Office Time: 7am - 8pm </p>
             </div>
           </Col>
 
