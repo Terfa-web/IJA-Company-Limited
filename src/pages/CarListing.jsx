@@ -8,7 +8,7 @@ import CarItem from "../components/UI/CarItem";
 const CarListing = () => {
   return (
     <Helmet title="Cars">
-      <CommonSection title="Cars Listing" />
+      <CommonSection title="Our Products" />
 
       <section>
         <Container>

@@ -33,17 +33,16 @@ const Footer = () => {
             <div className="logo footer__logo">
               <h1>
                 <Link to="/home" className=" d-flex align-items-center gap-3">
-                  <i class="ri-car-line"></i>
+                  <i class="ri-sun-line"></i>
                   <span>
-                    Rent car <br /> Service
+                    PV Panel, CCTV <br /> Service
                   </span>
                 </Link>
               </h1>
             </div>
             <p className="footer__logo-content">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Laudantium maiores eligendi accusamus ipsam non similique mollitia
-              natus! Obcaecati, architecto voluptate!
+              Offering reliable PV panel installations and advanced CCTV
+              services to secure your home and harness solar energy efficiently.
             </p>
           </Col>
 
