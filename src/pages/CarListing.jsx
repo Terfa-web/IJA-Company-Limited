@@ -7,13 +7,13 @@ import CarItem from "../components/UI/CarItem";
 
 const CarListing = () => {
   return (
-    <Helmet title="Cars">
+    <Helmet title="Products">
       <CommonSection title="Our Products" />
 
       <section>
         <Container>
           <Row>
-            <Col lg="12">
+            {/* <Col lg="12">
               <div className="d-flex align-items-center gap-3 mb-5">
                 <span className="d-flex align-items-center gap-2">
                   <i class="ri-sort-asc"> Sort By</i>
@@ -25,7 +25,7 @@ const CarListing = () => {
                   <option value="high">High to Low</option>
                 </select>
               </div>
-            </Col>
+            </Col> */}
 
             {carData.map((car) => (
               <CarItem car={car} key={car.id} />
