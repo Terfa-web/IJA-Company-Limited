@@ -149,7 +149,7 @@ const carData = [
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
   {
-    id: 8,
+    id: 9,
     brand: "Colorado",
     rating: 52,
     carName: "Rolls Royce Colorado",
@@ -164,7 +164,7 @@ const carData = [
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
   {
-    id: 8,
+    id: 10,
     brand: "Colorado",
     rating: 52,
     carName: "Rolls Royce Colorado",
@@ -179,7 +179,7 @@ const carData = [
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
   {
-    id: 8,
+    id: 11,
     brand: "Colorado",
     rating: 52,
     carName: "Rolls Royce Colorado",
@@ -194,7 +194,7 @@ const carData = [
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
   {
-    id: 8,
+    id: 12,
     brand: "Colorado",
     rating: 52,
     carName: "Rolls Royce Colorado",
@@ -209,7 +209,7 @@ const carData = [
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
   {
-    id: 8,
+    id: 13,
     brand: "Colorado",
     rating: 52,
     carName: "Rolls Royce Colorado",
@@ -224,7 +224,7 @@ const carData = [
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
   {
-    id: 8,
+    id: 14,
     brand: "Colorado",
     rating: 52,
     carName: "Rolls Royce Colorado",
@@ -239,7 +239,7 @@ const carData = [
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
   {
-    id: 8,
+    id: 15,
     brand: "Colorado",
     rating: 52,
     carName: "Rolls Royce Colorado",
@@ -254,7 +254,7 @@ const carData = [
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
   {
-    id: 8,
+    id: 16,
     brand: "Colorado",
     rating: 52,
     carName: "Rolls Royce Colorado",
@@ -269,7 +269,7 @@ const carData = [
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
   {
-    id: 8,
+    id: 17,
     brand: "Colorado",
     rating: 52,
     carName: "Rolls Royce Colorado",
@@ -284,7 +284,7 @@ const carData = [
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
   {
-    id: 8,
+    id: 18,
     brand: "Colorado",
     rating: 52,
     carName: "Rolls Royce Colorado",
@@ -299,7 +299,7 @@ const carData = [
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
   {
-    id: 8,
+    id: 19,
     brand: "Colorado",
     rating: 52,
     carName: "Rolls Royce Colorado",
@@ -314,7 +314,7 @@ const carData = [
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
   {
-    id: 8,
+    id: 20,
     brand: "Colorado",
     rating: 52,
     carName: "Rolls Royce Colorado",
