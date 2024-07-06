@@ -1,5 +1,5 @@
 // import all images from assets/images directory
-import img01 from "../all-images/products-img/lithuim.jpeg";
+// import img01 from "../all-images/products-img/lithuim.jpeg";
 import img02 from "../all-images/products-img/growatt.jpeg";
 import img03 from "../all-images/products-img/inverter.jpeg";
 import img04 from "../all-images/products-img/unknown.jpeg";
@@ -21,21 +21,7 @@ import img19 from "../all-images/products-img/battery2.jpeg";
 import img20 from "../all-images/products-img/wifidevices.jpeg";
 
 const carData = [
-  {
-    id: 1,
-    brand: "Tesla",
-    rating: 112,
-    carName: "Tesla Malibu",
-    imgUrl: img01,
-    model: "Model 3",
-    price: 50,
-    speed: "20kmpl",
-    gps: "GPS Navigation",
-    seatType: "Heated seats",
-    automatic: "Automatic",
-    description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
-  },
+  
 
   {
     id: 2,
@@ -148,6 +134,7 @@ const carData = [
     description:
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
+
   {
     id: 9,
     brand: "Colorado",
@@ -163,6 +150,7 @@ const carData = [
     description:
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
+
   {
     id: 10,
     brand: "Colorado",
@@ -178,6 +166,7 @@ const carData = [
     description:
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
+
   {
     id: 11,
     brand: "Colorado",
@@ -193,6 +182,7 @@ const carData = [
     description:
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
+
   {
     id: 12,
     brand: "Colorado",
@@ -208,6 +198,7 @@ const carData = [
     description:
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
+
   {
     id: 13,
     brand: "Colorado",
@@ -223,6 +214,7 @@ const carData = [
     description:
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
+
   {
     id: 14,
     brand: "Colorado",
@@ -238,6 +230,7 @@ const carData = [
     description:
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
+
   {
     id: 15,
     brand: "Colorado",
@@ -253,6 +246,7 @@ const carData = [
     description:
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
+
   {
     id: 16,
     brand: "Colorado",
@@ -268,6 +262,7 @@ const carData = [
     description:
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
+
   {
     id: 17,
     brand: "Colorado",
@@ -283,6 +278,7 @@ const carData = [
     description:
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
+
   {
     id: 18,
     brand: "Colorado",
@@ -298,6 +294,7 @@ const carData = [
     description:
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
+
   {
     id: 19,
     brand: "Colorado",
@@ -327,7 +324,7 @@ const carData = [
     automatic: "Automatic",
     description:
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
-  },
+  }
 ];
 
 export default carData;
