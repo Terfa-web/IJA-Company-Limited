@@ -83,7 +83,22 @@ const carData = [
     description:
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
-
+  {
+    id: 8,
+    brand: "Colorado",
+    rating: 52,
+    carName: "PV Solar panel",
+    imgUrl: img08,
+    model: "Model 3",
+    price: 50,
+    speed: "20kmpl",
+    gps: "GPS Navigation",
+    seatType: "Heated seats",
+    automatic: "Automatic",
+    description:
+      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+  }
+,
   {
     id: 4,
     brand: "Exulted Inverter",
@@ -115,22 +130,8 @@ const carData = [
     description:
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
-  {
-    id: 8,
-    brand: "Colorado",
-    rating: 52,
-    carName: "PV Solar panel",
-    imgUrl: img08,
-    model: "Model 3",
-    price: 50,
-    speed: "20kmpl",
-    gps: "GPS Navigation",
-    seatType: "Heated seats",
-    automatic: "Automatic",
-    description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
-  }
-,
+  
+
   {
     id: 6,
     brand: "MPPT charge controller",
