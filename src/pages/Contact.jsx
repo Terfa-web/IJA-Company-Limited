@@ -8,8 +8,6 @@ import "../styles/contact.css";
 const socialLinks = [
   { url: "#", icon: "ri-facebook-line" },
   { url: "#", icon: "ri-instagram-line" },
-  { url: "#", icon: "ri-linkedin-line" },
-  { url: "#", icon: "ri-twitter-line" },
 ];
 
 const Contact = () => {
@@ -33,7 +31,7 @@ const Contact = () => {
 
                 <FormGroup className="contact__form">
                   <textarea
-                    rows="40"
+                    rows="25"
                     placeholder="
 If you have any questions or need assistance, please don't hesitate to reach out to us using the contact details provided on our site. You can call us directly at the phone number listed, and our team will be happy to assist you. Additionally, you can send us an email at the provided address, and we promise to respond promptly. Our dedicated staff is always on hand to ensure your inquiries are addressed as quickly and efficiently as possible.
 
