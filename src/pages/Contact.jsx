@@ -6,8 +6,14 @@ import { Link } from "react-router-dom";
 import "../styles/contact.css";
 
 const socialLinks = [
-  { url: "#", icon: "ri-facebook-line" },
-  { url: "#", icon: "ri-instagram-line" },
+  {
+    url: "https://www.facebook.com/share/Vk6zjhxBiNCRv5GH/?mibextid=lOuIew",
+    icon: "ri-facebook-line",
+  },
+  {
+    url: "https://www.instagram.com/ija_solar_company_limited?igsh=NTJ2dWd1N2hvaWRo&utm_source=qr",
+    icon: "ri-instagram-line",
+  },
 ];
 
 const Contact = () => {
