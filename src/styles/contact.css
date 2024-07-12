@@ -20,6 +20,20 @@
   padding: 5px;
 }
 
+@media (max-width: 767.98px) {
+  /* Small devices */
+  .text__area {
+    width: calc(50ch + 2em); /* width for 50 columns */
+  }
+}
+
+@media (min-width: 768px) {
+  /* Medium to large devices */
+  .text__area {
+    width: calc(90ch + 2em); /* width for 90 columns */
+  }
+}
+
 @media screen and (max-width: 768px) {
   .contact__btn {
     margin-bottom: 40px;
