@@ -14,7 +14,7 @@
   border-radius: 5px;
 }
 
-.custom-form::placeholder {
+.contact-form::placeholder {
   font-size: 23px;
   color: #999;
 }
