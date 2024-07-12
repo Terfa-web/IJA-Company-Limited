@@ -14,7 +14,7 @@
   border-radius: 5px;
 }
 
-.contact-form::placeholder {
+.text__area::placeholder {
   font-size: 30px;
   color: #999;
 }
