@@ -23,25 +23,30 @@ const Contact = () => {
               <h5 className="fw-bold mb-4"> Get In Touch</h5>
 
               <Form>
-                <FormGroup className="contact__form">
+                {/* <FormGroup className="contact__form">
                   <Input type="text" placeholder="Your Name" />
-                </FormGroup>
+                </FormGroup> */}
 
-                <FormGroup className="contact__form">
+                {/* <FormGroup className="contact__form">
                   <Input type="Email" placeholder="Your Name" />
-                </FormGroup>
+                </FormGroup> */}
 
                 <FormGroup className="contact__form">
                   <textarea
                     rows="10"
-                    placeholder="Message"
+                    placeholder="
+If you have any questions or need assistance, please don't hesitate to reach out to us using the contact details provided on our site. You can call us directly at the phone number listed, and our team will be happy to assist you. Additionally, you can send us an email at the provided address, and we promise to respond promptly. Our dedicated staff is always on hand to ensure your inquiries are addressed as quickly and efficiently as possible.
+
+We also invite you to connect with us on social media. Follow us on Facebook and Instagram to stay updated on our latest products, services, and promotions. Feel free to send us a message through these platforms as well; we are committed to maintaining an active and responsive presence on social media.
+
+Your satisfaction is our priority, and we are here to help with any concerns or questions you might have. Thank you for choosing us, and we look forward to hearing from you soon!"
                     className="textarea"
                   ></textarea>
                 </FormGroup>
 
-                <button className=" contact__btn" type="submit">
+                {/* <button className=" contact__btn" type="submit">
                   Send Message
-                </button>
+                </button> */}
               </Form>
             </Col>
 
@@ -50,16 +55,18 @@ const Contact = () => {
                 <h6 className="fw-bold">Contact Information</h6>
                 <p className="section__description mb-0">
                   {" "}
-                  13, Amadu Bello Street, Ikoyi, Lagos.
+                  U20 Beside Midland Plaza, Maraba.
                 </p>
                 <div className="d-flex align-items-center gap-2">
                   <h6 className="mb-0 fs-6">Phone:</h6>
-                  <p className="section__description mb-0">+234-675-454-96</p>
+                  <p className="section__description mb-0">+234-816-433-9452</p>
                 </div>
 
                 <div className="d-flex align-items-center gap-2">
                   <h6 className="mb-0 fs-6">Email:</h6>
-                  <p className="section__description mb-0">n.terfa@yahoo.com</p>
+                  <p className="section__description mb-0">
+                    ijasolarcompanyltd@gmail.com
+                  </p>
                 </div>
 
                 <h6 className="fw-bold mt-4">Follow Us</h6>
