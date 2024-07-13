@@ -80,7 +80,7 @@ const Testimonial = () => {
 
           <div>
             <h6 className="mb-0 mt-3">Sunday Iga</h6>
-            <p className="section__description">08061219645/p>
+            <p className="section__description">08061219645</p>
           </div>
         </div>
       </div>
