@@ -3,7 +3,6 @@ import Slider from "react-slick";
 import ava01 from "../../assets/all-images/ava-1.jpg";
 import ava02 from "../../assets/all-images/ava-2.jpg";
 import ava03 from "../../assets/all-images/ava-3.jpg";
-import ava04 from "../../assets/all-images/ava-4.jpg";
 
 import "../../styles/testimonial.css";
 
@@ -92,10 +91,10 @@ const Testimonial = () => {
         </p>
 
         <div className="mt-3 d-flex align-items-center gap-4">
-          <img src={ava04} alt="" className="w-25 h-25 rounded-2" />
+          <img src={ava03} alt="" className="w-25 h-25 rounded-2" />
 
           <div>
-            <h6 className="mb-0 mt-3">Gift Effiong</h6>
+            <h6 className="mb-0 mt-3">Sunday Iga</h6>
             <p className="section__description">Customer</p>
           </div>
         </div>
