@@ -17,7 +17,7 @@
 .text__area::placeholder {
   font-size: 16px;
   color: #999;
-  padding: 5px;
+  padding: 10px;
 }
 
 @media (max-width: 767.98px) {

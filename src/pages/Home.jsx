@@ -69,7 +69,7 @@ const Home = () => {
       </section>
 
       {/* =========== blog section =========== */}
-      <section>
+      {/* <section>
         <Container>
           <Row>
             <Col lg="12" className="mb-5 text-center">
@@ -78,7 +78,7 @@ const Home = () => {
             </Col>
           </Row>
         </Container>
-      </section>
+      </section> */}
     </Helmet>
   );
 };

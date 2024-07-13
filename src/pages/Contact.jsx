@@ -35,7 +35,7 @@ const Contact = () => {
                   <Input type="Email" placeholder="Your Name" />
                 </FormGroup> */}
 
-                <FormGroup className="contact__form col-10 col-md-6">
+                <FormGroup className="contact__form col-10 col-md-6 ">
                   <textarea
                     className="text__area"
                     rows="17"

@@ -41,9 +41,8 @@ const Testimonial = () => {
     <Slider {...settings}>
       <div className="testimonial py-4 px-3">
         <p className="section__description">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam
-          praesentium perspiciatis inventore explicabo obcaecati, nesciunt
-          facilis delectus adipisci culpa corrupti.
+          "Ija-Solar Company Limited provided exceptional service, installing
+          our solar panels efficiently and with great professionalism
         </p>
 
         <div className="mt-3 d-flex align-items-center gap-4">
@@ -57,9 +56,8 @@ const Testimonial = () => {
       </div>
       <div className="testimonial py-4 px-3">
         <p className="section__description">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam
-          praesentium perspiciatis inventore explicabo obcaecati, nesciunt
-          facilis delectus adipisci culpa corrupti.
+          Thanks to Ija-Solar Company Limited, our new CCTV cameras were
+          installed quickly and work perfectly. Highly recommend their services
         </p>
 
         <div className="mt-3 d-flex align-items-center gap-4">
@@ -73,9 +71,8 @@ const Testimonial = () => {
       </div>
       <div className="testimonial py-4 px-3">
         <p className="section__description">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam
-          praesentium perspiciatis inventore explicabo obcaecati, nesciunt
-          facilis delectus adipisci culpa corrupti.
+          The team at Ija-Solar Company Limited delivered outstanding service,
+          making our solar panel installation process smooth and hassle-free.
         </p>
 
         <div className="mt-3 d-flex align-items-center gap-4">
@@ -90,9 +87,8 @@ const Testimonial = () => {
 
       <div className="testimonial py-4 px-3">
         <p className="section__description">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam
-          praesentium perspiciatis inventore explicabo obcaecati, nesciunt
-          facilis delectus adipisci culpa corrupti.
+          The team at Ija-Solar Company Limited delivered outstanding service,
+          making our solar panel installation process smooth and hassle-free.
         </p>
 
         <div className="mt-3 d-flex align-items-center gap-4">
