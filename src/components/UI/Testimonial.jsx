@@ -49,7 +49,7 @@ const Testimonial = () => {
 
           <div>
             <h6 className="mb-0 mt-3">Terwase Suu</h6>
-            <p className="section__description">08061288489</p>
+            <p className="section__description"></p>
           </div>
         </div>
       </div>
@@ -64,7 +64,7 @@ const Testimonial = () => {
 
           <div>
             <h6 className="mb-0 mt-3">Mary Asuquo</h6>
-            <p className="section__description">Customer</p>
+            <p className="section__description">08061288489</p>
           </div>
         </div>
       </div>

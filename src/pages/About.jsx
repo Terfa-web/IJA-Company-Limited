@@ -26,20 +26,20 @@ const About = () => {
             <Col lg="6" md="6" sm="12">
               <div className="about__page-content">
                 <h2 className="section__title">
-                  We Are Committed To Provide Safe Ride Solutions
+                  We Are Committed To Providing Safe Solutions
                 </h2>
 
-                <p className="section__description">
+                {/* <p className="section__description">
                   Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                   Consectetur quisquam veritatis ullam maiores nemo, accusantium
                   ad quaerat quam odio reprehenderit.
-                </p>
+                </p> */}
 
-                <p className="section__description">
+                {/* <p className="section__description">
                   Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                   Consectetur quisquam veritatis ullam maiores nemo, accusantium
                   ad quaerat quam odio reprehenderit.
-                </p>
+                </p> */}
 
                 <div className="d-flex align-items-center gap-3 mt-4">
                   <span className="fs-4">
