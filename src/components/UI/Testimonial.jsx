@@ -49,7 +49,7 @@ const Testimonial = () => {
 
           <div>
             <h6 className="mb-0 mt-3">Terwase Suu</h6>
-            <p className="section__description">Customer</p>
+            <p className="section__description">08061288489</p>
           </div>
         </div>
       </div>
@@ -68,21 +68,6 @@ const Testimonial = () => {
           </div>
         </div>
       </div>
-      <div className="testimonial py-4 px-3">
-        <p className="section__description">
-          The team at Ija-Solar Company Limited delivered outstanding service,
-          making our solar panel installation process smooth and hassle-free.
-        </p>
-
-        <div className="mt-3 d-flex align-items-center gap-4">
-          <img src={ava03} alt="" className="w-25 h-25 rounded-2" />
-
-          <div>
-            <h6 className="mb-0 mt-3">Bassey Anthony</h6>
-            <p className="section__description">Customer</p>
-          </div>
-        </div>
-      </div>
 
       <div className="testimonial py-4 px-3">
         <p className="section__description">
@@ -95,7 +80,7 @@ const Testimonial = () => {
 
           <div>
             <h6 className="mb-0 mt-3">Sunday Iga</h6>
-            <p className="section__description">Customer</p>
+            <p className="section__description">08061219645/p>
           </div>
         </div>
       </div>
