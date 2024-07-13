@@ -48,7 +48,7 @@ const About = () => {
 
                   <div>
                     <h6 className="section__subtitle">Need Any Help?</h6>
-                    <h4>+234-876-789-89</h4>
+                    <h4>+234-816-433-9452</h4>
                   </div>
                 </div>
               </div>

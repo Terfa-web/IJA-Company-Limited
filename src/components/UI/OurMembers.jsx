@@ -28,23 +28,13 @@ const ourMembers = [
   },
 
   {
-    name: "Keediyeh Clinsent",
+    name: "Sunday Iga",
     experience: "8 years of experience",
     fbUrl: "#",
     instUrl: "#",
     twitUrl: "#",
     linkedinUrl: "#",
     imgUrl: ava03,
-  },
-
-  {
-    name: "Sunday Gloria",
-    experience: "9 years of experience",
-    fbUrl: "#",
-    instUrl: "#",
-    twitUrl: "#",
-    linkedinUrl: "#",
-    imgUrl: ava01,
   },
 ];
 
